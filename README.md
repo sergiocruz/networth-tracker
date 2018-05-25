@@ -2,7 +2,7 @@
 
 ## Description
 
-keep-track-of-your-net-worth
+Keep track of your net worth
 
 ## Installation
 
@@ -14,10 +14,7 @@ $ npm install
 
 ```bash
 # development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
+$ docker-compose up -d
 
 # production mode
 npm run start:prod
